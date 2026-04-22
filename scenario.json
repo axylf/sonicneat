@@ -1,0 +1,23 @@
+{
+  "done": {
+    "variables": {
+      "lives": {
+        "op": "zero"
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "x": {
+        "reward": 2
+      },
+      "score": {
+        "reward": 1
+      },
+      "rings": {
+        "reward": 1
+      }
+    }
+  }
+}
+
